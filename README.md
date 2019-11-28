@@ -1,0 +1,2 @@
+# tugaski
+Tugas Steganografi - DWT
